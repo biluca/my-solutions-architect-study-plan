@@ -1,6 +1,8 @@
 # My Solutions Architect Study Plan
 
-## Module 1: Solution Architecture Fundamentals
+## Solutions Architecture
+
+### Module 1: Solution Architecture Fundamentals
 
 - Enterprise Software Systems
 - What is Solution Architecture?
@@ -16,7 +18,7 @@
 - Observability
 - SAD - Solution Architecture Document
 
-## Module 2: System Design and Design Docs
+### Module 2: System Design and Design Docs
 
 - What is System Design?
 - Solution Architecture vs Products
@@ -28,7 +30,7 @@
 - C4 Model, PlantUML, GMUDs
 - System Design of the Practical Case Study
 
-## Module 3: Databases
+### Module 3: Databases
 
 - Database Types
 - ACID and its importance
@@ -38,7 +40,7 @@
 - Key-Value with DynamoDB
 - Redis and his super powers
 
-## Module 4: Apache Kafka
+### Module 4: Apache Kafka
 
 - Introduction to Apache Kafka
 - Main concepts
@@ -50,7 +52,7 @@
 - REST Proxy
 - Main techniques for operating a Cluster
 
-## Module 5: Cloud Computing and Serverless
+### Module 5: Cloud Computing and Serverless
 
 - Fundamentals of cloud computing
 - VPCs, AZs, Internet Gateway, Subnets and basic infrastructure
@@ -62,7 +64,7 @@
 - Serverless framework
 
 
-## Module 6: Edge Computing
+### Module 6: Edge Computing
 
 - Fundamentals of Edge Computing
 - Edge-related services
@@ -74,9 +76,9 @@
 - WAF (Web Firewall and Antibots)
 
 
-# Software Architecture
+## Software Architecture
 
-## Module 1: Software Architecture Fundamentals
+### Module 1: Software Architecture Fundamentals
 
 - Fundamentals of software architecture
 - Architectural features
@@ -92,7 +94,7 @@
 - Leadership by an architect
 
 
-## Module 2: Domain Driven Design
+### Module 2: Domain Driven Design
 
 - Fundamentals of DDD
 - Types of complexity
@@ -108,7 +110,7 @@
 - DDD vs Microservices
 
 
-## Module 3: SOLID and Design Patterns
+### Module 3: SOLID and Design Patterns
 
 - Basic concepts about Design Patterns
 - GOF - Gang of Four
@@ -123,7 +125,7 @@
 - Dependency inversion principle
 
 
-## Module 4: Hexagonal Architecture & Clean Architecture
+### Module 4: Hexagonal Architecture & Clean Architecture
 
 - Main concepts about Hexagonal architecture
 - Ports and Adapters in practice
@@ -136,7 +138,7 @@
 - Presenters and their practical application
 - Event handling
 
-## Module 5: Microservices and Event-Driven Architecture
+### Module 5: Microservices and Event-Driven Architecture
 
 - Microservices fundamentals
 - Leadership to make the best decision
@@ -153,9 +155,9 @@
 - Event Streaming: Apache Kafka, Apache Pulsar, Amazon Kinesis
 
 
-# DevOps and SRE
+## DevOps and SRE
 
-## Module 1: Containers and Kubernetes
+### Module 1: Containers and Kubernetes
 
 - Kubernetes Full Cycle Module
 - Security in Kubernetes
@@ -166,7 +168,7 @@
 - Creation of Helm charts
 
 
-## Module 2: DevOps and SRE Fundamentals
+### Module 2: DevOps and SRE Fundamentals
 
 - What is DevOps and its culture
 - 3 Fundamentals
@@ -180,7 +182,7 @@
 - Software Engineering at SRE
 
 
-## Module 3: Infra as Code
+### Module 3: Infra as Code
 
 - Concepts of infra as code
 - Ansible
@@ -190,7 +192,7 @@
 - Pipelines for IaC
 
 
-## Module 4: Observability
+### Module 4: Observability
 
 - Introduction to observability
 - Observability vs Monitoring
@@ -204,9 +206,9 @@
 - Elastic Stack, New Relic, Datadog and Prometheus
 - Understanding Apdex score
 
-#Soft Skills
+## Soft Skills
 
-## Module 1: Leadership and Teamwork
+### Module 1: Leadership and Teamwork
 
 - Difficulties encountered in teamwork
 - Improving team building
@@ -214,7 +216,7 @@
 - Behavioral profile
 
 
-## Module 2: Personal Marketing
+### Module 2: Personal Marketing
 
 - Personal image
 - Authority
@@ -223,7 +225,7 @@
 - Your projects and your personal brand
 
 
-## Module 3: Entrepreneurship
+### Module 3: Entrepreneurship
 
 - Entrepreneurial mind
 - Social entrepreneurship
