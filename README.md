@@ -1,5 +1,9 @@
 # Solutions Architect - My Study Plan
 
+## How to Read
+
+[Solutions Architect Roadmap](https://roadmap.sh/r/solutions-architectur-roadmap)
+
 ## Solutions Architecture
 
 ### Module 1: Solution Architecture Fundamentals
