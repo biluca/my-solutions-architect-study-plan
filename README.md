@@ -1,10 +1,11 @@
-# My Solutions Architect Study Plan
+# Solutions Architect - My Study Plan
 
 ## Solutions Architecture
 
 ### Module 1: Solution Architecture Fundamentals
 
-- Enterprise Software Systems
+- [What is Enterprise Architecture?](articles\enterprise-architecture.md)
+[<t style="color: #CE3DF3; font-weight: bold; text-decoration: underline;">TLDR</t>](articles\enterprise-architecture.tldr.md)
 - What is Solution Architecture?
 - Features of software that every architect needs to know
 - Principles of Solution Architecture Design
