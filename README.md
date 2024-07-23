@@ -2,7 +2,8 @@
 
 ## How to Read
 
-[Solutions Architect Roadmap](https://roadmap.sh/r/solutions-architectur-roadmap)
+***[Solutions Architect Roadmap](https://roadmap.sh/r/solutions-architectur-roadmap)
+powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ## Solutions Architecture
 
