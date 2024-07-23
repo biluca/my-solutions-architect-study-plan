@@ -22,3 +22,7 @@ Cloud vendors promise to simplify IT complexity by offering scalable, on-demand 
 
 ## Conclusion
 Enterprise Architecture is not just an IT concern but a fundamental business concern. It starts with the business defining its objectives and IT determining how to achieve them. As markets, environments, and customer needs change, businesses must adapt, and so must their IT systems. EA ensures that technology and business operations remain aligned, enabling organizations to navigate complexity and thrive in the future. By embracing EA, organizations can create a structured approach to understanding and managing their operations, ensuring they are well-equipped to face the challenges and opportunities of the modern business landscape.
+
+
+#### References
+Video: [What is Enterprise Architecture (EA) and why is it important?](https://www.youtube.com/watch?v=9TVc32M_gIY)
