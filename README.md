@@ -1,4 +1,4 @@
-# Solutions Architect - My Study Plan
+# Solutions Architect - Study Plan
 
 ## How to Read
 
@@ -9,25 +9,18 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ### Module 1: Solution Architecture Fundamentals
 
-- [What is Enterprise Architecture?](articles/module_1/enterprise-architecture.md)
-[**TLDR**](articles/module_1/enterprise-architecture.tldr.md)
 - [What is Solutions Architecture?](articles/module_1/solutions-architecture.md)
 [**TLDR**](articles/module_1/solutions-architecture.tldr.md)
+- [What is Enterprise Architecture?](articles/module_1/enterprise-architecture.md)
+[**TLDR**](articles/module_1/enterprise-architecture.tldr.md)
 - [Differences Between Solutions & Enterprise Architecture](articles/module_1/solutions-x-enterprise-architecture.md)
 [**TLDR**](articles/module_1/solutions-x-enterprise-architecture.tldr.md)
 - [The Role of the Solutions Architect](articles/module_1/solutions-archtect-role.md)
 [**TLDR**](articles/module_1/solutions-archtect-role.tldr.md)
-- Features of software that every architect needs to know
-- Principles of Solution Architecture Design
-- The role of the solution architect
-- Design patterns for solution architecture
-- Hybrid integration between platforms
-- Cloud-Native Solutions
-- Microservices
-- Event-driven Architecture
-- Security in enterprise applications
-- Observability
-- SAD - Solution Architecture Document
+- [SAD - Solution Architecture Document](articles/module_1/solution-architecture-doc.md)
+[**TLDR**](articles/module_1/solution-architecture-doc.tldr.md)
+- [Architectural Patterns](articles/module_1/architetural-patterns.md)
+[**TLDR**](articles/module_1/architetural-patterns.tldr.md)
 
 ### Module 2: System Design and Design Docs
 
