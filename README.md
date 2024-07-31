@@ -13,6 +13,8 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 [**TLDR**](articles/module_1/enterprise-architecture.tldr.md)
 - [What is Solutions Architecture?](articles/module_1/solutions-architecture.md)
 [**TLDR**](articles/module_1/solutions-architecture.tldr.md)
+- [Differences Between Solutions & Enterprise Architecture](articles/module_1/solutions-x-enterprise-architecture.md)
+[**TLDR**](articles/module_1/solutions-x-enterprise-architecture.tldr.md)
 - [The Role of the Solutions Architect](articles/module_1/solutions-archtect-role.md)
 [**TLDR**](articles/module_1/solutions-archtect-role.tldr.md)
 - Features of software that every architect needs to know
