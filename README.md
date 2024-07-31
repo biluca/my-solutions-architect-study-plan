@@ -9,10 +9,12 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ### Module 1: Solution Architecture Fundamentals
 
-- [What is Enterprise Architecture?](articles/enterprise-architecture.md)
-[**TLDR**](articles/enterprise-architecture.tldr.md)
-- [What is Solution Architecture?](articles/solutions-archtect-role.md)
-  [**TLDR**](articles/solutions-archtect-role.tldr.md)
+- [What is Enterprise Architecture?](articles/module_1/enterprise-architecture.md)
+[**TLDR**](articles/module_1/enterprise-architecture.tldr.md)
+- [What is Solutions Architecture?](articles/module_1/solutions-architecture.md)
+[**TLDR**](articles/module_1/solutions-architecture.tldr.md)
+- [The Role of the Solutions Architect](articles/module_1/solutions-archtect-role.md)
+[**TLDR**](articles/module_1/solutions-archtect-role.tldr.md)
 - Features of software that every architect needs to know
 - Principles of Solution Architecture Design
 - The role of the solution architect
@@ -85,7 +87,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ## Software Architecture
 
-### Module 1: Software Architecture Fundamentals
+### Module 7: Software Architecture Fundamentals
 
 - Fundamentals of software architecture
 - Architectural features
@@ -101,7 +103,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Leadership by an architect
 
 
-### Module 2: Domain Driven Design
+### Module 8: Domain Driven Design
 
 - Fundamentals of DDD
 - Types of complexity
@@ -117,14 +119,14 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - DDD vs Microservices
 
 
-### Module 3: SOLID and Design Patterns
+### Module 9: SOLID and Design Patterns
 
 - Basic concepts about Design Patterns
+- SOLID
 - GOF - Gang of Four
 - Creational Patterns
 - Structural Standards
 - Behavioral Patterns
-- About SOLID
 - Single Responsibility Principle
 - Open/Closed Principle
 - Liskov substitution principle
@@ -132,7 +134,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Dependency inversion principle
 
 
-### Module 4: Hexagonal Architecture & Clean Architecture
+### Module 10: Hexagonal Architecture & Clean Architecture
 
 - Main concepts about Hexagonal architecture
 - Ports and Adapters in practice
@@ -145,7 +147,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Presenters and their practical application
 - Event handling
 
-### Module 5: Microservices and Event-Driven Architecture
+### Module 11: Microservices and Event-Driven Architecture
 
 - Microservices fundamentals
 - Leadership to make the best decision
@@ -164,7 +166,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ## DevOps and SRE
 
-### Module 1: Containers and Kubernetes
+### Module 12: Containers and Kubernetes
 
 - Kubernetes Full Cycle Module
 - Security in Kubernetes
@@ -175,7 +177,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Creation of Helm charts
 
 
-### Module 2: DevOps and SRE Fundamentals
+### Module 13: DevOps and SRE Fundamentals
 
 - What is DevOps and its culture
 - 3 Fundamentals
@@ -189,7 +191,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Software Engineering at SRE
 
 
-### Module 3: Infra as Code
+### Module 14: Infra as Code
 
 - Concepts of infra as code
 - Ansible
@@ -199,7 +201,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Pipelines for IaC
 
 
-### Module 4: Observability
+### Module 15: Observability
 
 - Introduction to observability
 - Observability vs Monitoring
@@ -215,7 +217,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 
 ## Soft Skills
 
-### Module 1: Leadership and Teamwork
+### Module 16: Leadership and Teamwork
 
 - Difficulties encountered in teamwork
 - Improving team building
@@ -223,7 +225,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Behavioral profile
 
 
-### Module 2: Personal Marketing
+### Module 17: Personal Marketing
 
 - Personal image
 - Authority
@@ -232,7 +234,7 @@ powered by [Developers Roadmap](https://roadmap.sh/)***
 - Your projects and your personal brand
 
 
-### Module 3: Entrepreneurship
+### Module 18: Entrepreneurship
 
 - Entrepreneurial mind
 - Social entrepreneurship
